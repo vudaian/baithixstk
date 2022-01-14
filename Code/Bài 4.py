@@ -1,4 +1,3 @@
-import re
 string = ', '
 information = input("Nhập vào họ tên và mã sinh viên: ")
 value = string.join(information)
